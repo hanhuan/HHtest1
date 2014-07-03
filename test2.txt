@@ -1,0 +1,19 @@
+aaaaaaaaaaaaaaa
+
+<<<<<<< HEAD
+jhjhkjhk
+
+victor added
+
+victor add 2
+
+victor add 3
+=======
+jhjhkjhkaaafdsf
+
+uouu
+>>>>>>> refs/remotes/origin/develop
+
+let's have a push. -- victor
+
+1. try to push.
